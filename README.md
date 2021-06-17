@@ -1,6 +1,6 @@
 # Multiple-Linear-Regression
 
-This Notebook had used Multiple Linear Regression Approach to determine the housing price.Feature selection of the data is done using two approches
+This Notebook had used Multiple Linear Regression Approach to determine the House price.Feature selection of the data is done using two approches
 1) Manual Approach 
 2)  Automated- Manual Combined approach 
 to determine the best fit for the Given Data Set
